@@ -1,0 +1,72 @@
+Time resolution is 1 ps
+----sending coefficient----
+----checking coefficient----
+OK: exp =           0, rdata =           0
+OK: exp =         -10, rdata =         -10
+OK: exp =          -9, rdata =          -9
+OK: exp =          23, rdata =          23
+OK: exp =          56, rdata =          56
+OK: exp =          63, rdata =          63
+OK: exp =          56, rdata =          56
+OK: exp =          23, rdata =          23
+OK: exp =          -9, rdata =          -9
+OK: exp =         -10, rdata =         -10
+OK: exp =           0, rdata =           0
+ Start FIR round           0
+Now time 750000 ps
+----start sending x----
+----start receiving y----
+[PASS] [Pattern          0] Golden answer:           0, Your answer:           0
+[PASS] [Pattern         50] Golden answer:        8418, Your answer:        8418
+[PASS] [Pattern        100] Golden answer:        9882, Your answer:        9882
+[PASS] [Pattern        150] Golden answer:         732, Your answer:         732
+[PASS] [Pattern        200] Golden answer:       -8418, Your answer:       -8418
+[PASS] [Pattern        250] Golden answer:       -9882, Your answer:       -9882
+[PASS] [Pattern        300] Golden answer:        -732, Your answer:        -732
+[PASS] [Pattern        350] Golden answer:        8418, Your answer:        8418
+[PASS] [Pattern        400] Golden answer:        9882, Your answer:        9882
+[PASS] [Pattern        450] Golden answer:         732, Your answer:         732
+[PASS] [Pattern        500] Golden answer:       -8418, Your answer:       -8418
+[PASS] [Pattern        550] Golden answer:       -9882, Your answer:       -9882
+----get done signal----
+Now time 130470000 ps
+ Start FIR round           1
+Now time 130506000 ps
+----start sending x----
+----start receiving y----
+[PASS] [Pattern          0] Golden answer:           0, Your answer:           0
+[PASS] [Pattern         50] Golden answer:        8418, Your answer:        8418
+[PASS] [Pattern        100] Golden answer:        9882, Your answer:        9882
+[PASS] [Pattern        150] Golden answer:         732, Your answer:         732
+[PASS] [Pattern        200] Golden answer:       -8418, Your answer:       -8418
+[PASS] [Pattern        250] Golden answer:       -9882, Your answer:       -9882
+[PASS] [Pattern        300] Golden answer:        -732, Your answer:        -732
+[PASS] [Pattern        350] Golden answer:        8418, Your answer:        8418
+[PASS] [Pattern        400] Golden answer:        9882, Your answer:        9882
+[PASS] [Pattern        450] Golden answer:         732, Your answer:         732
+[PASS] [Pattern        500] Golden answer:       -8418, Your answer:       -8418
+[PASS] [Pattern        550] Golden answer:       -9882, Your answer:       -9882
+----get done signal----
+Now time 260226000 ps
+ Start FIR round           2
+Now time 260262000 ps
+----start sending x----
+----start receiving y----
+[PASS] [Pattern          0] Golden answer:           0, Your answer:           0
+[PASS] [Pattern         50] Golden answer:        8418, Your answer:        8418
+[PASS] [Pattern        100] Golden answer:        9882, Your answer:        9882
+[PASS] [Pattern        150] Golden answer:         732, Your answer:         732
+[PASS] [Pattern        200] Golden answer:       -8418, Your answer:       -8418
+[PASS] [Pattern        250] Golden answer:       -9882, Your answer:       -9882
+[PASS] [Pattern        300] Golden answer:        -732, Your answer:        -732
+[PASS] [Pattern        350] Golden answer:        8418, Your answer:        8418
+[PASS] [Pattern        400] Golden answer:        9882, Your answer:        9882
+[PASS] [Pattern        450] Golden answer:         732, Your answer:         732
+[PASS] [Pattern        500] Golden answer:       -8418, Your answer:       -8418
+[PASS] [Pattern        550] Golden answer:       -9882, Your answer:       -9882
+----get done signal----
+Now time 389982000 ps
+**************************************
+*              All pass              *
+**************************************
+$finish called at time : 389982 ns : File "C:/Users/Donghan/Desktop/fir
